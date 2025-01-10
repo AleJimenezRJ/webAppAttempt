@@ -24,7 +24,9 @@ An attempt to create a full-stack web app with the purpose of learning the tools
 
 ## Description of the app
 
-I'm currently planning for this to be either a recipe app, or a finance tracker app
+The app will be like a recipe collection app, where users can share their own recipes, and add recipes from other users (full features are not ready).
+
+The project is currently using vite as a build tool due to the great features it contains.
 
 ## Developer
 
